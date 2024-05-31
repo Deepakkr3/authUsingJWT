@@ -1,7 +1,7 @@
 
 # Project Title
 I have implemented user management system based on
-Node.js and Express.js are popular web frameworks that can be used to create web applications. JWT (JSON Web Token) is an authentication method that allows users to identify themselves and verify that they have access to specific resources. MongoDB is a NoSQL database that is designed to store and manage large amounts of unstructured data. bcrypt is a library that can be used to securely store passwords in a database. Base64 is an encoding scheme that can be used to represent data in a URL- friendly way. Overall, implementing user management using Node.js, Express, JWT, MongoDB, bcrypt, and Base64
+Node.js and Express.js are popular web frameworks that can be used to create web applications. JWT (JSON Web Token) is an authentication method that allows users to identify themselves and verify that they have access to specific resources. MongoDB is a NoSQL database that is designed to store and manage large amounts of unstructured data. bcrypt is a library that can be used to securely store passwords in a database. Base64 is an encoding scheme that can be used to represent data in a URL- friendly way. Overall, implementing user management using Node.js, Express, JWT, MongoDB, bcrypt, and Base64.
 
 
 ## Configuration
